@@ -7,7 +7,7 @@ const web = [
         name: "Trang chủ",
         path: "/",
         exact: true,
-        main: () => <HomePage/>
+        main: () => <HomePage />
     },
     {
         name: "Đăng nhập",
